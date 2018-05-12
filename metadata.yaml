@@ -1,0 +1,26 @@
+_repo: Allopathy-and-Homoeopathy-Before-the-Judgment-of-Common-Sense-_31230
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31230-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hiller, Frederick
+    birthdate: 1820
+    gutenberg_agent_id: '35078'
+    url: http://www.gutenberg.org/2009/agents/35078
+description: ''
+gutenberg_issued: '2010-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RX'
+- !lcsh 'Hahnemann, Samuel, 1755-1843'
+- !lcsh 'Homeopathy'
+title: Allopathy and Homoeopathy Before the Judgment of Common Sense!
+url: http://www.gutenberg.org/ebooks/31230
